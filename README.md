@@ -56,5 +56,5 @@ Each module is backed by a MySQL database with structured tables for courses, st
 - **Mobile App Integration:** Develop REST APIs for Android/iOS app access.
 - **Email Notifications:** Inform users of course enrollment, deadlines, or changes.
 - **Improved UI/UX:** Responsive design and user-centric enhancements.
-- **Cloud Hosting:** Deploy on platforms like AWS or Heroku for broader access.
+- **Cloud Hosting:** Deploy on platforms like AWS or Azure for broader access.
 
