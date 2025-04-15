@@ -19,8 +19,8 @@ This system includes the following modules:
 - **Student Profile Editing:** Admins can update student details.
 - **Course Availability Checking:** Students can see real-time availability of courses.
 - **Session and Security Management:** Ensures valid session handling and logout.
-- 
-> Each module is backed by a MySQL database with structured tables for courses, students, and user credentials.
+
+Each module is backed by a MySQL database with structured tables for courses, students, and user credentials.
 
 ## 🛠️ Tech Stack
 
